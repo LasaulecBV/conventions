@@ -1,0 +1,16 @@
+*.DS_Store
+
+.vs/
+*.user
+*.suo
+*.nupkg
+npm-debug.log
+bundle.js
+fixie-results.xml
+
+TestResults/
+[Oo]bj/
+[Bb]in/
+packages/
+node_modules/
+nuget/lib
